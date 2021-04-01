@@ -1,7 +1,7 @@
 # Vitor Correa
 *Desenvolvimento Web Front-End*
 
-<Estudante de Desenvolvimento Web voltado para a area de Front-End. Criador compulsivo de projetos aleatórios.>
+>Estudante de Desenvolvimento Web voltado para a area de Front-End. Criador compulsivo de projetos aleatórios.
 
 
 ## Redes Sociais
