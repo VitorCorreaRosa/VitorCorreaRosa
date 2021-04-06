@@ -12,5 +12,6 @@
 
 * HTML5
 * CSS3
+* SCSS
 * JavaScript
 * JQuery
