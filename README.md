@@ -7,7 +7,8 @@
 ## Redes Sociais
 * [Linkedin](https://www.linkedin.com/in/vitorcorrearosa/)
 * [StackOverflow](https://pt.stackoverflow.com/users/203843/vitor-correa)
-* [Portifólio]https://vitorcorrearosa.tech)* 
+* [Portifólio](https://vitorcorrearosa.teh)
+
 
 ## Competencias
 
