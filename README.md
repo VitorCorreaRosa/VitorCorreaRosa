@@ -1,6 +1,6 @@
 # Vitor Correa
 *Desenvolvimento Web*
->Estudante de Desenvolvimento Web.Nascido na cidade de Frutal, MG.
+>Estudante de Desenvolvimento Web. Nascido na cidade de Frutal, MG.
 
 
 ## Redes Sociais
